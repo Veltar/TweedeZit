@@ -1,0 +1,1 @@
+/Users/ewoutcallens/Documents/Titanium Studio Workspace/TweedeZit/Resources/detail.js

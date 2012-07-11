@@ -1,0 +1,12 @@
+Logfile initialized
+[INFO] logfile = /Users/ewoutcallens/Documents/Titanium Studio Workspace/TweedeZit/build.log
+[DEBUG] /Users/ewoutcallens/Library/Application Support/Titanium/mobilesdk/osx/2.0.2.GA/android/builder.py install TweedeZit /Users/ewoutcallens/Downloads/android-sdk-macosx /Users/ewoutcallens/Documents/Titanium Studio Workspace/TweedeZit com.onezeromany.tweedezit 2
+[INFO] Titanium SDK version: 2.0.2 (05/30/12 10:21 2ff31a3)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[TRACE] adb devices returned 0 devices/emulators
+[ERROR] Timed out waiting for device to be ready, you may try reconnecting the USB cable
